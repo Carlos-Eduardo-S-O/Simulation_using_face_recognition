@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "product": "smartphone1",
+            "accessories": [3, 4, 5]
+        },
+        {
+            "id": 2,
+            "product": "smartphone2",
+            "accessories": [5, 7]
+        },
+        {
+            "id": 3,
+            "product": "capa preta do smartphone1",
+            "accessories": []
+        },
+        {
+            "id": 4,
+            "product": "carregador do smartphone1",
+            "accessories": []
+        },
+        {
+            "id": 5,
+            "product": "powerbank",
+            "accessories": []
+        },
+        {
+            "id": 6,
+            "product": "Geladeira",
+            "accessories": []
+        },
+        {
+            "id": 7,
+            "product": "capa branca do smartphone1",
+            "accessories": []
+        },
+        {
+            "id": 8,
+            "product": "super carregador",
+            "accessories": []
+        }
+    ]
+}

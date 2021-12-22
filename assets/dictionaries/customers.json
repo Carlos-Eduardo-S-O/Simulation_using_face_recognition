@@ -1,0 +1,28 @@
+{
+    "information":[
+        {
+            "name": "",
+            "photos": [
+                "assets/faces/1.1.jpeg",
+                "assets/faces/1.2.jpeg",
+                "assets/faces/1.3.jpeg",
+                "assets/faces/1.4.jpeg"
+            ],
+            "acquisition": [],
+            "withdrawal": 0,
+            "debt": 0
+        },
+        {
+            "name": "",
+            "photos": [
+                "assets/faces/4.1.jpeg",
+                "assets/faces/4.2.jpeg",
+                "assets/faces/4.3.jpeg",
+                "assets/faces/4.4.jpeg"
+            ],
+            "acquisition": [],
+            "withdrawal": 0,
+            "debt": 0
+        }
+    ]
+}

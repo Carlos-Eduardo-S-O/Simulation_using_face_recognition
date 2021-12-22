@@ -1,0 +1,5 @@
+# Caso esteja em um ambiente linux você precisa ter o cmake instalado
+face_recognition
+opencv-python
+simpy
+faker
